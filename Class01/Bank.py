@@ -1,0 +1,11 @@
+Balance = 0
+min_Balance = 1500
+Salary = 3300
+Online_purchase = 33.33
+House_rent = 1500
+Total_Expenses =Online_purchase+House_rent
+print('Total_Expenses is  =',Total_Expenses)
+Total_Balance = (min_Balance+Salary)
+print('Total Balance is = ',Total_Balance)
+Balance = Total_Balance - Total_Expenses
+print('Balance is = ', Balance)
