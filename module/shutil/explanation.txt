@@ -1,0 +1,5 @@
+Shutil is desgined for multiple pursposes one such thing is copying.
+shutil.copy             --          copies permissions
+shutil.copyfile
+shutil.copy2            --          copies permissions
+shutil.copyfileobj
