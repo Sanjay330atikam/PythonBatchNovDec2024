@@ -1,0 +1,1 @@
+# to clear a break point ib ipdb simple use clear1(1 is osition number of breakpoint)
