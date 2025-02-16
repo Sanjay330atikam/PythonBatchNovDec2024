@@ -1,0 +1,9 @@
+This static typing doesnot execute but helps us for executing
+
+To handle all the edgecases(means erors in the dofferent data types or error)
+ some process some where are not working properly to handle them module are created
+    There are different type of static typing modules in python
+        - mypy(Dropbox)
+        - pytype(Google)
+        -pyre(Facebook) 
+        -pyright(Microsoft) 
