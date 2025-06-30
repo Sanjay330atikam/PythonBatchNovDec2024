@@ -7,7 +7,7 @@
      Running script with pylint gives issues in entire code
 """
 NUM1 = 10
-NUM2 = 345
+NUM2 = 35
 RESULT = NUM1 + NUM2
 print(RESULT)
 
