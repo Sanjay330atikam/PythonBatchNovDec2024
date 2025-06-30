@@ -9,13 +9,12 @@
 # export PYTHONBREAKPOINT = ipdb.set_trace
 
 # " " "
-
 numbers = range (1,100)
 
 # import ipdb; ipdb.set_trace()
 breakpoint()
 
 for each_num in numbers:
-    if each_num % 2 ==0:#each_num % 2
+    if each_num % 2==0:#each_num % 2
         print(f"{each_num =}")
 
