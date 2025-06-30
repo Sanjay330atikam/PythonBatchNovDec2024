@@ -11,7 +11,7 @@ print(mirror(100))
 print(mirror(123.45))
 print(mirror(True))
 print(mirror(None))
-
+print()
 # Method2 : Adding Typing
 # facilaiting Any data types
 from typing import Any

@@ -13,8 +13,8 @@ class Person:
     Age : int
     Married : bool
 
-print(f"{Person("Sam",45,True)}")
-print(f"{Person("Joned",47,False)}")
+print(f"{Person("Sam",1,True)}")
+print(f"{Person("Joned",1,False)}")
 
 
 @dataclass

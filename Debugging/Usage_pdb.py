@@ -5,7 +5,8 @@ val2  = int(input("enter the Val2 = "))
 import pdb
 pdb.set_trace()
 
-# import pdb; pdb.set_trace()
+import pdb;
+pdb.set_trace()
 
 # # Multiplication
 result = val1 * val2 # val1 + val2 
